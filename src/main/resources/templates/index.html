@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+	<meta charset="ISO-8859-1">
+	<title>Capstone Presentations</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+<body>
+    <h1 class="row justify-content-center">Capstone Presentations</h1>
+    <hr>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-sm-6">
+            <table class="table table-responsive">
+                <tr class="bg-light">
+                    <th class="col-sm-2">Events:</th>
+                    <th class="col-sm-8">Description:</th>
+                    <th class="col-sm-2">Vote:</th>
+                </tr>
+                <tr class="bg-light" th:each="c:${capstoneList}">
+                    <td>
+                        <a href="#" th:onclick="'getCapstone('+${c.id}+')'" th:text="${c.title}">here</a>
+                    </td>
+                    <td>
+                    	<div th:id="'capstone' + ${c.id}"></div>
+                    </td>
+                    <td>
+                    	<a th:href="@{/updateCapstone/}+${c.id}">Upvote!</a>
+                   	</td>                    
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-auto">
+            <form class="form form-responsive" method="post" action="#" th:action="@{/insertCapstone}"
+                th:object="${capstone}">
+                <input class="row" type="hidden" name="id" th:field="*{id}" />
+                <label class="col-sm"> Add Title:</label>
+                <input class="row" type="text" name="title" th:field="*{title}" />
+                <label class="col-sm">Add Team Name:</label>
+                <input class="row" type="text" name="team" th:field="*{team}" />
+                <label class="col-sm">Add Video Link:</label>
+                <input class="row" type="text" name="videoLink" th:field="*{videoLink}" />
+                <label class="col-sm">Add Description:</label>
+                
+                <input class="row" type="text" name="videoDescription" th:field="*{videoDescription}" />
+                <br>
+                <input class="row" type="submit" value="Add Capstone Presentation" />
+            </form>
+        </div>
+    </div>
+    <script src="../static/js/script.js" th:src="@{/js/script.js}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
