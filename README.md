@@ -7,7 +7,7 @@
  Thymeleaf
 
 <h2>Project Description:</h2>
-Final Exam for Java Enterprise at Sheridan College 2021 to be completed within 2.5. This capstone presentation rating system was built with a RESTful web services. Through this system we can view submitted capstones video, descrption and vote for which project we like the most. Through RESTful web services we can add new compeitors by filling out the form with the required sections.<br><br> 
+Final Exam for Java Enterprise at Sheridan College 2021 to be completed within 2.5. This capstone presentation rating system was built with a RESTful web services. Through this system we can view submitted capstone videos and read their descrption. We can also vote for which capstone we like the most. Through RESTful web services we can add new compeitors by filling out the form with the required sections.<br><br> 
 
 Home Page:
 ![Capstone-Presentation-Home-Page](https://user-images.githubusercontent.com/19481324/156096424-83f71541-60dd-4f3c-9483-38b955a46f68.png)
