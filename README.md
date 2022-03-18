@@ -16,7 +16,7 @@
     <img src="https://user-images.githubusercontent.com/19481324/158642612-e676c8ff-6e5f-40b7-9539-f7f95d419034.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Capstone Presentation</h3>
 
   <p align="center">
     Vote for your favourite capstone presentation today or add a competitor to see who will win this year’s capstone!
