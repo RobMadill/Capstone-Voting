@@ -16,7 +16,7 @@
     <img src="https://user-images.githubusercontent.com/19481324/158642612-e676c8ff-6e5f-40b7-9539-f7f95d419034.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Capstone Presentation</h3>
+<h3 align="center">Capstone Voting</h3>
 
   <p align="center">
     Vote for your favourite capstone presentation today or add a competitor to see who will win this year’s capstone!
@@ -59,8 +59,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-Final Exam for Java Enterprise at Sheridan College 2021 to be completed within 2.5. This capstone presentation rating system was built with a RESTful web services. Through this system we can view submitted capstone videos and read their description. We can also vote for which capstone we like the most. Through RESTful web services we can add new competitors by filling out the form with the required sections.
+This Capstone Voting project was part of my Java Enterprise course at Sheridan College. The objective was to develop a CRUD application allowing users to manage and vote on capstone projects within a tight 2.5-hour window. <br><br>
+The application presents a list of capstone projects, each with a clickable link to access its description. Users can then upvote their preferred projects to increase their ranking. Employing Spring Boot, H2 Database, and Thymeleaf, I built a RESTful API to allow communication from the front-end to the back-end. Thymeleaf facilitated dynamic views through model data access, while H2 Database securely stored information from a predefined SQL file.<br><br>
+The architecture consists of a user-friendly web interface and a strong backend following the Model-View-Controller (MVC) design, allowing easy modifications and maintenance. Despite the challenge of time constraints, Spring Boot's Auto-wired annotation streamlined integration with Spring Web and Spring JDBC frameworks.<br><br>
+This project not only showcased my knowledge of RESTful API development but also highlighted my ability to independently create a full-stack application. It strengthened my understanding of Object-Oriented Programming and highlighted code coherence.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -69,13 +71,14 @@ Final Exam for Java Enterprise at Sheridan College 2021 to be completed within 2
 
 * [Java - JDK 16](https://openjdk.java.net/)
 * [Sprint Boot](https://spring.io/projects/spring-boot)
-* [Lombok](https://projectlombok.org/download)
 * [HTML5](https://angular.io/)
 * [BootStrap](https://getbootstrap.com/)
-* [Thymeleaf](https://www.thymeleaf.org/)
 
 ### Dependencies
 * [Spring Web](https://spring.io/)
+* [Spring JDBC](https://spring.io/)
+* [Thymeleaf](https://www.thymeleaf.org/)
+* [Lombok](https://projectlombok.org/download)
 * [H2 Database](https://www.h2database.com/html/main.html)
 
 
