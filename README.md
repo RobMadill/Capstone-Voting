@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/RobMadill/Capstone-Presentation">
+  <a href="https://github.com/RobMadill/Capstone-Voting">
     <img src="https://user-images.githubusercontent.com/19481324/158642612-e676c8ff-6e5f-40b7-9539-f7f95d419034.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     Vote for your favourite capstone presentation today or add a competitor to see who will win this year’s capstone!
     <br />
-    <a href="https://github.com/RobMadill/Capstone-Presentation"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RobMadill/Capstone-Voting"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RobMadill/Capstone-Presentation">View Demo</a>
+    <a href="https://github.com/RobMadill/Capstone-Voting">View Demo</a>
     ·
-    <a href="https://github.com/RobMadill/Capstone-Presentation/issues">Report Bug</a>
+    <a href="https://github.com/RobMadill/Capstone-Voting/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RobMadill/Capstone-Presentation/issues">Request Feature</a>
+    <a href="https://github.com/RobMadill/Capstone-Voting/issues">Request Feature</a>
   </p>
 </div>
 
@@ -94,16 +94,16 @@ This project not only showcased my knowledge of RESTful API development but also
 3. You can add a new event through the form listed below
 
 #### Home Page:
-![Capstone-Presentation-Home-Page](https://user-images.githubusercontent.com/19481324/156096424-83f71541-60dd-4f3c-9483-38b955a46f68.png)
+![Capstone-Voting-Home-Page](https://user-images.githubusercontent.com/19481324/156096424-83f71541-60dd-4f3c-9483-38b955a46f68.png)
 
 #### Expanded Description:
-![Capstone-Presentation-Home-Page-Description-Clicked](https://user-images.githubusercontent.com/19481324/156096604-2f92d508-ecea-4403-bbcb-980ebb37c128.png)
+![Capstone-Voting-Home-Page-Description-Clicked](https://user-images.githubusercontent.com/19481324/156096604-2f92d508-ecea-4403-bbcb-980ebb37c128.png)
 
 #### Upvoting Toil Capstone:
-![Capstone-Presentation-Home-Page-Toil-Upvote](https://user-images.githubusercontent.com/19481324/156096658-614ae2e0-3e9a-4b68-9f58-249f099a041e.png)
+![Capstone-Voting-Home-Page-Toil-Upvote](https://user-images.githubusercontent.com/19481324/156096658-614ae2e0-3e9a-4b68-9f58-249f099a041e.png)
 
 #### Adding Capstone:
-![Capstone-Presentation-Home-Page-Add-Campus-Navigator](https://user-images.githubusercontent.com/19481324/156096728-dcc346ab-3904-4ec9-b477-4c52d52f64c7.png)
+![Capstone-Voting-Home-Page-Add-Campus-Navigator](https://user-images.githubusercontent.com/19481324/156096728-dcc346ab-3904-4ec9-b477-4c52d52f64c7.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Rob Madill - [@linkedin](https://www.linkedin.com/in/robert-madill/) - robertmadill17@gmail.com
 
-Project Link: [https://github.com/RobMadill/Capstone-Presentation](https://github.com/RobMadill/Capstone-Presentation)
+Project Link: [https://github.com/RobMadill/Capstone-Voting](https://github.com/RobMadill/Capstone-Voting)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -154,15 +154,15 @@ Project Link: [https://github.com/RobMadill/Capstone-Presentation](https://githu
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/RobMadill/Capstone-Presentation.svg?style=for-the-badge
-[contributors-url]: https://github.com/RobMadill/Capstone-Presentation/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/RobMadill/Capstone-Presentation.svg?style=for-the-badge
-[forks-url]: https://github.com/RobMadill/Capstone-Presentation/network/members
-[stars-shield]: https://img.shields.io/github/stars/RobMadill/Capstone-Presentation.svg?style=for-the-badge
-[stars-url]: https://github.com/RobMadill/Capstone-Presentation/stargazers
-[issues-shield]: https://img.shields.io/github/issues/RobMadill/Capstone-Presentation.svg?style=for-the-badge
-[issues-url]: https://github.com/RobMadill/Capstone-Presentation/issues
-[license-shield]: https://img.shields.io/github/license/RobMadill/Capstone-Presentation.svg?style=for-the-badge
-[license-url]: https://github.com/RobMadill/Capstone-Presentation/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/RobMadill/Capstone-Voting.svg?style=for-the-badge
+[contributors-url]: https://github.com/RobMadill/Capstone-Voting/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RobMadill/Capstone-Voting.svg?style=for-the-badge
+[forks-url]: https://github.com/RobMadill/Capstone-Voting/network/members
+[stars-shield]: https://img.shields.io/github/stars/RobMadill/Capstone-Voting.svg?style=for-the-badge
+[stars-url]: https://github.com/RobMadill/Capstone-Voting/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RobMadill/Capstone-Voting.svg?style=for-the-badge
+[issues-url]: https://github.com/RobMadill/Capstone-Voting/issues
+[license-shield]: https://img.shields.io/github/license/RobMadill/Capstone-Voting.svg?style=for-the-badge
+[license-url]: https://github.com/RobMadill/Capstone-Voting/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/robert-madill/
